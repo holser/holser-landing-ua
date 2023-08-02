@@ -70,8 +70,8 @@ module.exports = {
 
     new HtmlWebpackPlugin({
       title: "Title",
-      filename: "index_en.html",
-      template: "src/index_en.html",
+      filename: "index_ua.html",
+      template: "src/index_ua.html",
     }),
 
     new HtmlWebpackPlugin({

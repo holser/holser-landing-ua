@@ -39,7 +39,7 @@ jobs:
     if: github.ref == 'refs/heads/master'
     environment:
       name: github-pages
-      url: 'support-ua.romcheg.me'
+      url: 'support.holser.info'
     runs-on: ubuntu-latest
     permissions:
       pages: write

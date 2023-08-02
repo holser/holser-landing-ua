@@ -4,7 +4,7 @@ import "./style.sass";
 import "./fireworks.css";
 import "./snackbar.css";
 import "./index.html";
-import "./index_en.html";
+import "./index_ua.html";
 import "./index_pl.html";
 
 import ClipboardJS from "clipboard";
